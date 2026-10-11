@@ -6,9 +6,9 @@ Installed-Size: 72
 Depends: firmware (>= 15.0)
 Filename: debs/com.th3arch1t3ct.riothello_0.0.1_iphoneos-arm64.deb
 Size: 5592
-MD5sum: c1a08e104a29b717ba78f5e9ca80a01a
-SHA1: a8d5c5ac0a00c9bb965c650cc9f52a23568d6cff
-SHA256: aaccee5ecebf15378cba53b37b7432cd7a51cec5ffebdde534cce4590817924c
+MD5sum: 0cf893d5fd4b8bc595d2df9d64654ddf
+SHA1: 5652675f024eec39e716debefc5ab8a20c6c6391
+SHA256: 2e29bb7d9f9c74fe12cb20b0724832fa18a9afd07180f3670867d0a148ed6879
 Section: Utilities
 Description: Smoke test for the Riot repo. Run `riothello` in a terminal.
 Author: GR
