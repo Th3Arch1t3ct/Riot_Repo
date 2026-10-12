@@ -1,8 +1,23 @@
-Origin: Riot Repo
-Label: Riot Repo
-Suite: stable
-Version: 1.0
-Codename: ios
 Architectures: iphoneos-arm64
-Components: main
+Codename: ios
+Date: Mon, 12 Oct 2026 00:39:36 +0000
 Description: GR's packages
+Label: Riot Repo
+Origin: Riot Repo
+Suite: stable
+MD5Sum:
+ 586ebb748edb9997ad69961e6e5f0c58              736 Packages
+ 0b8524295d86f4fb9de50ec7dfc26dfd              566 Packages.bz2
+ 5ca3fd4f8ec4ad6a155a8d3072552b9e              530 Packages.gz
+SHA1:
+ a1c7058e9909f82c079f8f2a82339c30b82240aa              736 Packages
+ 5ec17373369371b074e3aa93a949a9c79f8d366f              566 Packages.bz2
+ 45e82d505db72c981f40369e6c6410a7be0984fd              530 Packages.gz
+SHA256:
+ 48fa3905269f5108cbd6700adb02fc52f39601aad4e6fa1c578a7c69720cecd1              736 Packages
+ 05736c457015120126d21aabed36f95abb42ee748ed84602ac85df6987ed2d4c              566 Packages.bz2
+ 375902a6e924c6c237978edd32005014f39498aff906a26f6a1fcf25098d2320              530 Packages.gz
+SHA512:
+ dcee6e0fcbe5c892b78432be01ee749f37238fa805e77b94b710bea24f789f370b6604bab7fe1a75132ff4fca3f772d73de724529d2db56413fe470ba7918955              736 Packages
+ 4b4336a319c3ff1f69e6f6b1ae2c53004979b49afe4c8bc81a1c92b6de99574b4a618638abded381b595e4e52997825318ea0a918a4fc5024d343055a8b08dae              566 Packages.bz2
+ 1eab0e084b516e84d9feb4011c04c3b4995fe43af237f1fb960d3155a384e2e4edb91d0fa9ce994d72108fe9784e5dbfca9245d718757c2f9e42c7782f5d95d2              530 Packages.gz

@@ -1,16 +1,17 @@
 Package: com.th3arch1t3ct.riot
-Version: 0.1.0
 Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
 Maintainer: GR
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000), uikittools, firmware (>= 16.0)
 Filename: debs/com.th3arch1t3ct.riot_0.1.0_iphoneos-arm64.deb
-Size: 46826
-MD5sum: b3470adfe0072404c8f0ed9ccc9a3bd7
-SHA1: 454315b0bb39fe4e757c9115b043bfaabd4ceb95
-SHA256: 25fc849d04da4e1e23ef29a2d9bda7e15155dd4a339c24d92ae87765cb6492fe
-Section: Tweaks
+Size: 46780
+MD5sum: a587e3fd58de8daa24d77f03484de525
+SHA1: 19121019dcb316fcb9a477167a8fdf2559a08cfb
+SHA256: ed8862406ac2b6201b284a4c1e20278f81b4a860c486f9abd83c4a397b782c92
+SHA512: 242ecd08fe3631f8de00c30c0787994c9dde2a5e56087fca865b7bba0a024798cdad7910e579e32c836495697127c62c254987e96258265e234a643a1b2b8611
 Description: An alternative home page with only the apps you choose, plus photo, GIF and video backgrounds for the Home Screen and Lock Screen.
-Author: GR
 Name: Riot
+Author: GR
 
