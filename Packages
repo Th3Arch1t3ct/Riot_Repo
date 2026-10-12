@@ -6,11 +6,11 @@ Maintainer: GR
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000), uikittools, firmware (>= 16.0)
 Filename: debs/com.th3arch1t3ct.riot_0.1.0_iphoneos-arm64.deb
-Size: 46754
-MD5sum: 3dcf079603419548810da4ebae508a02
-SHA1: d776024e0e5741197a5c88bb4e6d8a1ea943ca2c
-SHA256: e1b1a3bea22a279492dd0934a6f2aeae75914cb7e85b9d15636ce4a4dd574879
-SHA512: 6c16e6f432cffab859bdeb2e421273203335ec33580fcdaea6880cc2084057824b199b8e839ac03be91155f7aadaef2c375bb1c9443c3d8b51d54ed011321b0d
+Size: 46768
+MD5sum: 9201bdad262bbdcf7772ed8bf332a7df
+SHA1: 6a0d8349204cbd115b6d40e23f5730ddbed52652
+SHA256: 5b3cfbafa661f25befd7af5e42fee14b2f250aee1b63da8bf1eed023b9478777
+SHA512: 79dcac5aa75e4e132812274104e055f8218183174e2c69cf66884e29774911d5a23cb490e1e9c181c3a4fabba990230774e8535b44f1e46db5ba25d5d0294361
 Description: An alternative home page with only the apps you choose, plus photo, GIF and video backgrounds for the Home Screen and Lock Screen.
 Name: Riot
 Author: GR
