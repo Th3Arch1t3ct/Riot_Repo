@@ -5,10 +5,10 @@ Maintainer: GR
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000), uikittools, firmware (>= 16.0)
 Filename: debs/com.th3arch1t3ct.riot_0.1.0_iphoneos-arm64.deb
-Size: 46810
-MD5sum: b06df47d4820936dd3e23bc769e74056
-SHA1: a8484d46ae8ea7bbd9db26f1e150e48b39183aae
-SHA256: 30cd32ac865237f03dc9ae8b22c71314979b7f363910b0f3a92c7309620bb0a4
+Size: 46826
+MD5sum: b3470adfe0072404c8f0ed9ccc9a3bd7
+SHA1: 454315b0bb39fe4e757c9115b043bfaabd4ceb95
+SHA256: 25fc849d04da4e1e23ef29a2d9bda7e15155dd4a339c24d92ae87765cb6492fe
 Section: Tweaks
 Description: An alternative home page with only the apps you choose, plus photo, GIF and video backgrounds for the Home Screen and Lock Screen.
 Author: GR
