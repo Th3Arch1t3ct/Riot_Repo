@@ -1,17 +1,17 @@
 Package: com.th3arch1t3ct.riot
 Architecture: iphoneos-arm64
-Version: 0.1.0
-Section: Tweaks
+Version: 0.2.0
+Section: Applications
 Maintainer: GR
-Installed-Size: 376
-Depends: mobilesubstrate (>= 0.9.5000), uikittools, firmware (>= 16.0)
-Filename: debs/com.th3arch1t3ct.riot_0.1.0_iphoneos-arm64.deb
-Size: 46768
-MD5sum: 9201bdad262bbdcf7772ed8bf332a7df
-SHA1: 6a0d8349204cbd115b6d40e23f5730ddbed52652
-SHA256: 5b3cfbafa661f25befd7af5e42fee14b2f250aee1b63da8bf1eed023b9478777
-SHA512: 79dcac5aa75e4e132812274104e055f8218183174e2c69cf66884e29774911d5a23cb490e1e9c181c3a4fabba990230774e8535b44f1e46db5ba25d5d0294361
-Description: An alternative home page with only the apps you choose, plus photo, GIF and video backgrounds for the Home Screen and Lock Screen.
+Installed-Size: 232
+Depends: uikittools, firmware (>= 16.0)
+Filename: debs/com.th3arch1t3ct.riot_0.2.0_iphoneos-arm64.deb
+Size: 49718
+MD5sum: c4a666f8da1316070262b2fc0d6dc060
+SHA1: f7e8ffc823d48a93e5d037b77308d45785b5f330
+SHA256: 0c203476bb5ddad6fed2877b7febfc5695301ea6b99a5d1fc4846dfec85d812c
+SHA512: 8e7d3dd32956ecaaf25bd4c3a3796f4a1fecae0504e70f088ede49b9769be535f3147300e9c5d9c3e4fc8ce35666e84a7439ad4524dff2adf1216618e3fb70e8
+Description: A simulated iPhone with its own Lock Screen and Home Screen. Fill them with full-screen photos, GIFs and videos and the apps you choose, without touching your real ones.
 Name: Riot
 Author: GR
 
